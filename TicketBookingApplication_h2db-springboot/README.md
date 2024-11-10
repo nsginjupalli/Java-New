@@ -15,11 +15,11 @@ To Insert data
 4) paste the below JSON on body
 {
 
-"passengerName": "Geetha",
-"sourceStation": "Banglore",
-"destinationStation": "Mysore",
+"passengerName": "Sahithi",
+"sourceStation": "India",
+"destinationStation": "USA",
 "travelDate": "2020-11-03T13:26:29.813+00:00",
-"email": "geetha@gmail.com"
+"email": "Sahithi@gmail.com"
 }
 
 5) Post it
